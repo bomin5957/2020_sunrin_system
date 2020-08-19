@@ -6,4 +6,4 @@ day4 - return oriented programming
 day5 - one gadget & syscall return oriented programming  
 day6 - sigreturn oriented programming & return to csu  
 day7 - return to csu & format string bug(overwrite & leak)  
-day8(samll ctf) - buffer overflow(shellcode & return oriented programming & return to csu) & fromat string bug(leak)  
+day8(samll ctf) - buffer overflow(shellcode & return oriented programming & return to csu) & format string bug(leak)  
